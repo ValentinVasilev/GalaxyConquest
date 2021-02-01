@@ -1,0 +1,8 @@
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\netstandard2.1\GalaxyConquest.Common.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\netstandard2.1\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\netstandard2.1\GalaxyConquest.Common.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\netstandard2.1\GalaxyConquest.Common.AssemblyInfoInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\netstandard2.1\GalaxyConquest.Common.AssemblyInfo.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\netstandard2.1\GalaxyConquest.Common.csproj.CoreCompileInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\netstandard2.1\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\netstandard2.1\GalaxyConquest.Common.pdb

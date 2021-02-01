@@ -1,0 +1,9 @@
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\bin\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\bin\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\bin\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\obj\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.csprojAssemblyReference.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\obj\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.AssemblyInfoInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\obj\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.AssemblyInfo.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\obj\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\obj\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Mapping\obj\Debug\netstandard2.1\GalaxyConquest.Services.Mapping.pdb

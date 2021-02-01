@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EjhRz/peacH7tlofC+MOTO/LswFk4bUVkWSA/+EiZ3nm/sIA0QrLVyfoC2TEg2rUSwThRPT3+n7ic9GSMPttNg==",
+  "success": true,
+  "projectFilePath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\GalaxyConquest.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}
