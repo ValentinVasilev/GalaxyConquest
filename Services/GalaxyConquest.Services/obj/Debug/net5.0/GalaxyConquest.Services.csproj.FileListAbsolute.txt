@@ -1,0 +1,11 @@
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Services.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Services.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\ref\GalaxyConquest.Services.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Services.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.AssemblyInfoInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.AssemblyInfo.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.csproj.CoreCompileInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\ref\GalaxyConquest.Services.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.pdb

@@ -1,0 +1,12 @@
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\bin\Debug\net5.0\GalaxyConquest.Services.Messaging.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\bin\Debug\net5.0\GalaxyConquest.Services.Messaging.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\bin\Debug\net5.0\ref\GalaxyConquest.Services.Messaging.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\bin\Debug\net5.0\GalaxyConquest.Services.Messaging.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.csprojAssemblyReference.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.AssemblyInfoInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.AssemblyInfo.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\ref\GalaxyConquest.Services.Messaging.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services.Messaging\obj\Debug\net5.0\GalaxyConquest.Services.Messaging.pdb

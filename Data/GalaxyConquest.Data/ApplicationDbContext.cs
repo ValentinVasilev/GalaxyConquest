@@ -26,6 +26,12 @@
 
         public DbSet<Setting> Settings { get; set; }
 
+        public DbSet<Account> Accounts { get; set; }
+
+        public DbSet<Quiz> Quizzes { get; set; }
+
+        public DbSet<Questions> Questions { get; set; }
+
         public override int SaveChanges() => this.SaveChanges(true);
 
         public override int SaveChanges(bool acceptAllChangesOnSuccess)
