@@ -47,5 +47,8 @@
     <Content Update="wwwroot\Assets\Pictures\Learn More.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\Assets\Pictures\SupportUs.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 </Project>

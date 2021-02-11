@@ -4,79 +4,86 @@
 }
 
 <body>
-    <div class="s">
+    @*<div class="s">
         <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
         <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    </div>
+    </div>*@
     <div>
-        <img src="/Assets/Pictures/GalaxyPicture.jpg" id="bg" alt="GalaxyPicture">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="component">
-                    <div class="card">
-                        <div class="card-header">
-                            <img class="card-img" src="~/Assets/Pictures/Learn More.jpg" alt="LearnMore">
-                        </div>
-                        <div class="card-body">
-                            <span class="badge badge-pill badge-success">Info</span>
-                            <h4 class="card-title mt-2"></h4>
-                            <p class="card-text">
-                                You can learn more about our app. Why we created it at first place.
-                                How can you help if you are interested in. And more.. How can you help if you are interested in. And more.
-                                <blockquote class="blockquote">
-                                    “The more clearly we can focus our attention on the wonders and realities of the universe about us,
-                                    the less taste we shall have for destruction.”
-                                    <footer>
-                                        <cite title="Source Title"> ― Rachel Carson</cite>
-                                    </footer>
-                                </blockquote>
-                            </p>
-                        </div>
-                        <div class="card-footer">
-                            <a asp-area="" asp-controller="Home" asp-action="Info" class="btn btn-outline-primary">Read More</a>
+        <div class="container-fluid" style="padding: 110px">
+            <div class="banner img-responsive"
+                 style="background-image: url('/Assets/Pictures/GalaxyPicture.jpg'); height: 1000px;">
+            </div>
+            @*<img src="/Assets/Pictures/GalaxyPicture.jpg" id="bg" alt="GalaxyPicture">*@
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="component">
+                        <div class="card">
+                            <div class="card-header">
+                                <img class="card-img" src="~/Assets/Pictures/Learn More.jpg" alt="LearnMore">
+                            </div>
+                            <div class="card-body">
+                                <span class="badge badge-pill badge-success">Info</span>
+                                <h4 class="card-title mt-2"></h4>
+                                <p class="card-text">
+                                    You can learn more about our app. Why we created it at first place.
+                                    How can you help if you are interested in. And more.. How can you help if you are interested in. And more.
+                                    <blockquote class="blockquote">
+                                        “The more clearly we can focus our attention on the wonders and realities of the universe about us,
+                                        the less taste we shall have for destruction.”
+                                        <footer>
+                                            <cite title="Source Title"> ― Rachel Carson</cite>
+                                        </footer>
+                                    </blockquote>
+                                </p>
+                            </div>
+                            <div class="card-footer">
+                                <a asp-area="" asp-controller="Home" asp-action="Info" class="btn btn-outline-primary">Read More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-4">
-                <div class="component">
-                    <div class="card">
-                        <div class="card-header">
-                            <img class="card-img" src="~/Assets/Pictures/Community.jpg" alt="Community">
-                        </div>
-                        <div class="card-body">
-                            <span class="badge badge-warning">Education</span>
-                            <h4 class="card-title mt-2">Follow us in our Galaxy Forum!</h4>
-                            <p class="card-text">
-                                There your can find people that share your interests.
-                                Answer to a alot of question. Incredible community to help you with every qiestion you have.
-                                Disscus, shre, help to everone who want to explore the  Univese it self.
-                                You can create question by yourself! Just Come..
-                            </p>
-                        </div>
-                        <div class="card-footer">
-                            <a asp-area="" asp-controller="Home" asp-action="Forum" class="btn btn-outline-primary">Read More</a>
+                <div class="col-md-4">
+                    <div class="component">
+                        <div class="card">
+                            <div class="card-header">
+                                <img class="card-img" src="~/Assets/Pictures/Community.jpg" alt="Community">
+                            </div>
+                            <div class="card-body">
+                                <span class="badge badge-warning">Education</span>
+                                <h4 class="card-title mt-2">Follow us in our Galaxy Forum!</h4>
+                                <p class="card-text">
+                                    There your can find people that share your interests.
+                                    Answer to a alot of question. Incredible community to help you with every qiestion you have.
+                                    Disscus, shre, help to everone who want to explore the  Univese it self.
+                                    You can create question by yourself! Just Come..
+                                </p>
+                            </div>
+                            <div class="card-footer">
+                                <a asp-area="" asp-controller="Home" asp-action="Forum" class="btn btn-outline-primary">Read More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-4">
-                <div class="component">
-                    <div class="card">
-                        <div class="card-header">
-                            <img class="card-img" src="assets/img/dog-2.jpg" alt="dog">
-                        </div>
-                        <div class="card-body">
-                            <span class="badge badge-warning">Vacation</span>
-                            <h4 class="card-title mt-2">Woof! How to find dog-friendly beaches in Spain</h4>
-                            <p class="card-text">Considering Spain's abundant coastline, beaches that do allow you to take your pooch to feel sand... </p>
-                        </div>
-                        <div class="card-footer">
-                            <a href="#a" class="btn btn-outline-primary">Read More</a>
+                <div class="col-md-4">
+                    <div class="component">
+                        <div class="card">
+                            <div class="card-header">
+                                <img class="card-img" src="~/Assets/Pictures/SupportUs.jpg" alt="SupportUs">
+                            </div>
+                            <div class="card-body">
+                                <span class="badge badge-info">Support</span>
+                                <h4 class="card-title mt-2">Help us to help you!</h4>
+                                <p class="card-text">
+                                    If you like what we are doing, you can support us by donating some spare change.
+                                    Every cent is count. You can learn more from our Support Us page!
+                                </p>
+                            </div>
+                            <div class="card-footer">
+                                <a asp-area="" asp-controller="Home" asp-action="SupportUs" class="btn btn-outline-primary">Read More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
 </body>
