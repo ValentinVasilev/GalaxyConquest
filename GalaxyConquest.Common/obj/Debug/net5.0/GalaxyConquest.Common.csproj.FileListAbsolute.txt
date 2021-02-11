@@ -1,0 +1,12 @@
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\net5.0\GalaxyConquest.Common.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\net5.0\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\net5.0\ref\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\bin\Debug\net5.0\GalaxyConquest.Common.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.AssemblyInfoInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.AssemblyInfo.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.csproj.CoreCompileInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\ref\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\GalaxyConquest.Common\obj\Debug\net5.0\GalaxyConquest.Common.csprojAssemblyReference.cache

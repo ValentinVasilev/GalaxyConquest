@@ -1,0 +1,11 @@
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\bin\Debug\net5.0\GalaxyConquest.Web.Infrastructure.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\bin\Debug\net5.0\GalaxyConquest.Web.Infrastructure.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\bin\Debug\net5.0\ref\GalaxyConquest.Web.Infrastructure.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\bin\Debug\net5.0\GalaxyConquest.Web.Infrastructure.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.AssemblyInfo.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\ref\GalaxyConquest.Web.Infrastructure.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.pdb

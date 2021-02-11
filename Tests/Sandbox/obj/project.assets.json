@@ -1811,7 +1811,7 @@
       },
       "GalaxyConquest.Common/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
           "bin/placeholder/GalaxyConquest.Common.dll": {}
         },
@@ -1839,7 +1839,7 @@
       },
       "GalaxyConquest.Data.Common/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
         },
@@ -1852,7 +1852,7 @@
       },
       "GalaxyConquest.Data.Models/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "GalaxyConquest.Data.Common": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.1"
@@ -1866,7 +1866,7 @@
       },
       "GalaxyConquest.Services/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
           "bin/placeholder/GalaxyConquest.Services.dll": {}
         },
@@ -1876,7 +1876,7 @@
       },
       "GalaxyConquest.Services.Data/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "GalaxyConquest.Data.Common": "1.0.0",
           "GalaxyConquest.Data.Models": "1.0.0",
@@ -1891,7 +1891,7 @@
       },
       "GalaxyConquest.Services.Mapping/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "AutoMapper": "10.1.1"
         },
@@ -1904,7 +1904,7 @@
       },
       "GalaxyConquest.Services.Messaging/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Sendgrid": "9.22.0"
         },

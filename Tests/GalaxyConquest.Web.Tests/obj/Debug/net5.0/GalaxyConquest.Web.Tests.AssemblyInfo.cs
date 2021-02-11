@@ -12,8 +12,24 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common", "GalaxyConquest.Common.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
+    "", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common", "GalaxyConquest.Data.Common.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data", "GalaxyConquest.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" +
+    "", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models", "GalaxyConquest.Data.Models.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=nu" +
+    "ll", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Data", "GalaxyConquest.Services.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services", "GalaxyConquest.Services.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken" +
+    "=null", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mappi" +
+    "ng", "GalaxyConquest.Services.Mapping.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyTok" +
+    "en=null", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Messa" +
+    "ging", "GalaxyConquest.Services.Messaging.csproj", "0")]
 [assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web", "GalaxyConquest.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Web.Infrastructure", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.Infrastructure", "GalaxyConquest.Web.Infrastructure.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("GalaxyConquest.Web.ViewModels", "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels", "GalaxyConquest.Web.ViewModels.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GalaxyConquest.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

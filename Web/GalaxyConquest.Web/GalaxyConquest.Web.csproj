@@ -36,4 +36,16 @@
     <ProjectReference Include="..\GalaxyConquest.Web.Infrastructure\GalaxyConquest.Web.Infrastructure.csproj" />
     <ProjectReference Include="..\GalaxyConquest.Web.ViewModels\GalaxyConquest.Web.ViewModels.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\Assets\Pictures\Community.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Assets\Pictures\GalaxyPicture.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Assets\Pictures\Learn More.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 </Project>

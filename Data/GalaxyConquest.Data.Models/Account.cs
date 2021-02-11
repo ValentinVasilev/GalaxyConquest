@@ -5,11 +5,16 @@
     using System.Text;
 
     using GalaxyConquest.Data.Common.Models;
+    using Microsoft.AspNetCore.Identity;
 
     public class Account : BaseDeletableModel<int>
     {
+        public string Name { get; set; }
+
         // Create Reference to AspNet Users table
         public string UserId { get; set; }
+
+        public virtual ApplicationUser User { get; set; }
 
         public int QuizId { get; set; }
 

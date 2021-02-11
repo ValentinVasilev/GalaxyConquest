@@ -464,3 +464,10 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\ref\GalaxyConquest.Web.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\GalaxyConquest.Web.pdb
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\GalaxyConquest.Web.genruntimeconfig.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\Home\News.cshtml.g.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\Home\Ranking.cshtml.g.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\bin\Debug\net5.0\wwwroot\Assets\Pictures\GalaxyPicture.jpg
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\bin\Debug\net5.0\wwwroot\Assets\Pictures\Learn More.jpg
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\Home\Info.cshtml.g.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\bin\Debug\net5.0\wwwroot\Assets\Pictures\Community.jpg
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\Home\Forum.cshtml.g.cs

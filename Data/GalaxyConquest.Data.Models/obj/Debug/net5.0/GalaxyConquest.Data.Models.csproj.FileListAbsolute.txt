@@ -1,4 +1,6 @@
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.deps.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.runtimeconfig.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.runtimeconfig.dev.json
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\ref\GalaxyConquest.Data.Models.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.pdb
@@ -13,6 +15,4 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\obj\Debug\net5.0\GalaxyConquest.Data.Models.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\obj\Debug\net5.0\ref\GalaxyConquest.Data.Models.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\obj\Debug\net5.0\GalaxyConquest.Data.Models.pdb
-D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.runtimeconfig.json
-D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\bin\Debug\net5.0\GalaxyConquest.Data.Models.runtimeconfig.dev.json
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Models\obj\Debug\net5.0\GalaxyConquest.Data.Models.genruntimeconfig.cache

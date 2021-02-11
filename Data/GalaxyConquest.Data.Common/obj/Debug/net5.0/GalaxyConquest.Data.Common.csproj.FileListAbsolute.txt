@@ -2,6 +2,7 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\bin\Debug\net5.0\GalaxyConquest.Data.Common.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\bin\Debug\net5.0\ref\GalaxyConquest.Data.Common.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\bin\Debug\net5.0\GalaxyConquest.Data.Common.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\obj\Debug\net5.0\GalaxyConquest.Data.Common.csprojAssemblyReference.cache
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\obj\Debug\net5.0\GalaxyConquest.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\obj\Debug\net5.0\GalaxyConquest.Data.Common.AssemblyInfoInputs.cache
 D:\Важни\GitHubRepositories\GalaxyConquest\Data\GalaxyConquest.Data.Common\obj\Debug\net5.0\GalaxyConquest.Data.Common.AssemblyInfo.cs
