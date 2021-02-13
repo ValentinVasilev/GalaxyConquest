@@ -1,4 +1,7 @@
-﻿
+﻿@{
+    this.ViewData["Title"] = "Rank List";
+}
+
 <div style="background-color:indianred">
     <h1>Ranking page for all users!</h1>
     <div class="row justify-content-center">
@@ -7,15 +10,31 @@
                 <tr>
                     <th scope="col">
                         <span class="fas fa-trophy"> Rank</span>
+                        <span class="fas fa-info-circle" data-toggle="tooltip" data-placement="top" title="
+                              Place at the ranking list. Where #1 is the user with moste earned points by completing quizz's"
+                             </span>
                     </th>
                     <th scope="col">
-                        <span class="fas fa-user-circle"> Username</span>
+                        <span class="fas fa-user-circle">
+                            Username
+                            <span class="fas fa-info-circle" data-toggle="tooltip" data-placement="top" title="
+                             Name of the user that earned Quizz points."
+                             </span>
+                        </span>
                     </th>
                     <th scope="col">
-                        <span class="fas fa-star"> Points</span>
+                        <span class="fas fa-star">
+                            Points
+                            <span class="fas fa-info-circle" data-toggle="tooltip" data-placement="top" title="
+                              Total points earned from the user, by completeing Quizz."
+                             </span>
+                        </span>
                     </th>
                     <th scope="col">
                         <span class="fas fa-atom"> QuizzTaken</span>
+                        <span class="fas fa-info-circle" data-toggle="tooltip" data-placement="top" title="
+                              Number of the quizzes that user have completed."
+                             </span>
                     </th>
                 </tr>
             </thead>

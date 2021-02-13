@@ -8,6 +8,10 @@
 
     public class Quiz : BaseDeletableModel<int>
     {
+        public Account AccountId { get; set; }
+
+        //public Account Account { get; set; }
+
         public string Name { get; set; }
 
         public string Context { get; set; }

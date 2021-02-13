@@ -473,3 +473,4 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\bin\Debug
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\Home\Forum.cshtml.g.cs
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\bin\Debug\net5.0\wwwroot\Assets\Pictures\SupportUs.jpg
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\Home\SupportUs.cshtml.g.cs
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web\obj\Debug\net5.0\Razor\Views\LoggedIn\Logged.cshtml.g.cs

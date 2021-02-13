@@ -18,6 +18,8 @@
 
         public int QuizId { get; set; }
 
+        public Quiz Quiz { get; set; }
+
         // Status ?!
         // public int Status { get; set; }
         public double BestScore { get; set; }
