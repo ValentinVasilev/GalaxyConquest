@@ -9,3 +9,4 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services
 D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\ref\GalaxyConquest.Services.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.csprojAssemblyReference.cache

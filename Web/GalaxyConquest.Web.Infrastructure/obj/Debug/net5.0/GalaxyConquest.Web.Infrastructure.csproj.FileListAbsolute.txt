@@ -9,3 +9,4 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastru
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\ref\GalaxyConquest.Web.Infrastructure.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Web\GalaxyConquest.Web.Infrastructure\obj\Debug\net5.0\GalaxyConquest.Web.Infrastructure.csprojAssemblyReference.cache
