@@ -1,5 +1,27 @@
-﻿@{
+﻿@using GalaxyConquest.Common;
+@{
     this.ViewData["Title"] = "Info";
 }
 
-<h1>Read More about our app!</h1>
+@*<h1>Read More about our app!</h1>*@
+@*<h4>@GlobalConstants.UncompletedViewFile</h4>
+    <h3>@GlobalConstants.NameOfTheMachine</h3>*@
+
+@if (this.User.Identity.IsAuthenticated)
+{
+    if (this.User.Identity.Name.StartsWith("Admin"))
+    {
+        <h4>Hello:@GlobalConstants.AdministratorRoleName</h4>
+    }
+    else
+    {
+        <h4>Hello:@this.User.Identity.Name</h4>
+    }
+
+
+}
+@if (!this.User.Identity.IsAuthenticated)
+{
+    <h4>Hello Unlogged User!</h4>
+}
+

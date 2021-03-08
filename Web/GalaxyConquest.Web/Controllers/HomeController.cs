@@ -8,8 +8,14 @@
 
     public class HomeController : BaseController
     {
+        
         public IActionResult Index()
         {
+            //if (!this.User.Identity.IsAuthenticated)
+            //{
+            //    return this.BadRequest();
+            //}
+            System.Console.WriteLine();
             return this.View();
         }
 
