@@ -1867,6 +1867,10 @@
       "GalaxyConquest.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "GalaxyConquest.Data": "1.0.0",
+          "GalaxyConquest.Web.ViewModels": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/GalaxyConquest.Services.dll": {}
         },
@@ -1913,6 +1917,20 @@
         },
         "runtime": {
           "bin/placeholder/GalaxyConquest.Services.Messaging.dll": {}
+        }
+      },
+      "GalaxyConquest.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "GalaxyConquest.Data.Models": "1.0.0",
+          "GalaxyConquest.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GalaxyConquest.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GalaxyConquest.Web.ViewModels.dll": {}
         }
       }
     }
@@ -6705,6 +6723,11 @@
       "type": "project",
       "path": "../../Services/GalaxyConquest.Services.Messaging/GalaxyConquest.Services.Messaging.csproj",
       "msbuildProject": "../../Services/GalaxyConquest.Services.Messaging/GalaxyConquest.Services.Messaging.csproj"
+    },
+    "GalaxyConquest.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../../Web/GalaxyConquest.Web.ViewModels/GalaxyConquest.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/GalaxyConquest.Web.ViewModels/GalaxyConquest.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6836,14 +6859,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

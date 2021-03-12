@@ -1,4 +1,5 @@
-﻿@{
+﻿@model GalaxyConquest.Web.ViewModels.Home.RankingViewModel
+@{
     this.ViewData["Title"] = "Rank List";
 }
 
@@ -41,9 +42,9 @@
             <tbody>
                 <tr>
                     <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>150</td>
-                    <td>10</td>
+                    <td>@Model.Username</td>
+                    <td>@Model.Points</td>
+                    <td>@Model.QuizzTaken</td>
                 </tr>
                 <tr>
                     <th scope="row">2</th>

@@ -10,3 +10,17 @@ D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services
 D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\ref\GalaxyConquest.Services.dll
 D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.pdb
 D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.csprojAssemblyReference.cache
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\appsettings.json
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Data.Common.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Data.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Data.Models.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Services.Mapping.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Web.ViewModels.dll
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Data.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Web.ViewModels.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Common.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Data.Common.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Data.Models.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\bin\Debug\net5.0\GalaxyConquest.Services.Mapping.pdb
+D:\Важни\GitHubRepositories\GalaxyConquest\Services\GalaxyConquest.Services\obj\Debug\net5.0\GalaxyConquest.Services.csproj.CopyComplete

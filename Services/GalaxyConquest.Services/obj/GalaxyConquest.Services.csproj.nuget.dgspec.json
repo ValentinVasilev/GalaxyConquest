@@ -4,14 +4,261 @@
     "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj": {}
   },
   "projects": {
-    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj": {
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj",
-        "projectName": "GalaxyConquest.Services",
-        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj",
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj",
+        "projectName": "GalaxyConquest.Data.Common",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\obj\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj",
+        "projectName": "GalaxyConquest.Data.Models",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data\\GalaxyConquest.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data\\GalaxyConquest.Data.csproj",
+        "projectName": "GalaxyConquest.Data",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data\\GalaxyConquest.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Common\\GalaxyConquest.Data.Common.csproj"
+              },
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj"
+              },
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\GalaxyConquest.Common.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\GalaxyConquest.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\GalaxyConquest.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\GalaxyConquest.Common.csproj",
+        "projectName": "GalaxyConquest.Common",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\GalaxyConquest.Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\GalaxyConquest.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,7 +312,220 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mapping\\GalaxyConquest.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mapping\\GalaxyConquest.Services.Mapping.csproj",
+        "projectName": "GalaxyConquest.Services.Mapping",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mapping\\GalaxyConquest.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj",
+        "projectName": "GalaxyConquest.Services",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\GalaxyConquest.Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data\\GalaxyConquest.Data.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data\\GalaxyConquest.Data.csproj"
+              },
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels\\GalaxyConquest.Web.ViewModels.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels\\GalaxyConquest.Web.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels\\GalaxyConquest.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels\\GalaxyConquest.Web.ViewModels.csproj",
+        "projectName": "GalaxyConquest.Web.ViewModels",
+        "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels\\GalaxyConquest.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Web\\GalaxyConquest.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Data\\GalaxyConquest.Data.Models\\GalaxyConquest.Data.Models.csproj"
+              },
+              "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mapping\\GalaxyConquest.Services.Mapping.csproj": {
+                "projectPath": "D:\\Важни\\GitHubRepositories\\GalaxyConquest\\Services\\GalaxyConquest.Services.Mapping\\GalaxyConquest.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.312, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

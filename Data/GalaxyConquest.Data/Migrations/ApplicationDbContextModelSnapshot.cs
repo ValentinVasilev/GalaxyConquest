@@ -60,7 +60,8 @@ namespace GalaxyConquest.Data.Migrations
 
                     b.HasIndex("IsDeleted");
 
-                    b.HasIndex("QuizId");
+                    b.HasIndex("QuizId")
+                        .IsUnique();
 
                     b.HasIndex("UserId");
 
@@ -405,8 +406,8 @@ namespace GalaxyConquest.Data.Migrations
             modelBuilder.Entity("GalaxyConquest.Data.Models.Account", b =>
                 {
                     b.HasOne("GalaxyConquest.Data.Models.Quiz", "Quiz")
-                        .WithMany()
-                        .HasForeignKey("QuizId")
+                        .WithOne("AccountId")
+                        .HasForeignKey("GalaxyConquest.Data.Models.Account", "QuizId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
@@ -477,6 +478,11 @@ namespace GalaxyConquest.Data.Migrations
                     b.Navigation("Logins");
 
                     b.Navigation("Roles");
+                });
+
+            modelBuilder.Entity("GalaxyConquest.Data.Models.Quiz", b =>
+                {
+                    b.Navigation("AccountId");
                 });
 #pragma warning restore 612, 618
         }

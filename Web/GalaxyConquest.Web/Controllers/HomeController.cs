@@ -1,14 +1,21 @@
 ﻿namespace GalaxyConquest.Web.Controllers
 {
     using System.Diagnostics;
-
+    using System.Linq;
+    using GalaxyConquest.Data;
     using GalaxyConquest.Web.ViewModels;
-
+    using GalaxyConquest.Web.ViewModels.Home;
     using Microsoft.AspNetCore.Mvc;
 
     public class HomeController : BaseController
     {
-        
+        private readonly ApplicationDbContext dbContext;
+
+        public HomeController(ApplicationDbContext dbContext)
+        {
+            this.dbContext = dbContext;
+        }
+
         public IActionResult Index()
         {
             //if (!this.User.Identity.IsAuthenticated)
@@ -29,9 +36,17 @@
             return this.View();
         }
 
-        public IActionResult Ranking()
+        public IActionResult Ranking(string username)
         {
-            return this.View();
+            var viewModel = new RankingViewModel
+            {
+                Rank = this.dbContext.Accounts.Count(),
+                Username = this.dbContext.RankLists.Count().ToString(),
+                Points = this.dbContext.RankLists.Count(),
+                QuizzTaken = this.dbContext.RankLists.Count(),
+            };
+
+            return this.View(viewModel);
         }
 
         public IActionResult Info()

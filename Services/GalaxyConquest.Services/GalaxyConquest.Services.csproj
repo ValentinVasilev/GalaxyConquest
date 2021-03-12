@@ -18,4 +18,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\GalaxyConquest.Data\GalaxyConquest.Data.csproj" />
+    <ProjectReference Include="..\..\Web\GalaxyConquest.Web.ViewModels\GalaxyConquest.Web.ViewModels.csproj" />
+  </ItemGroup>
+
 </Project>

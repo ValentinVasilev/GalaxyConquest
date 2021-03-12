@@ -32,6 +32,8 @@
 
         public DbSet<Questions> Questions { get; set; }
 
+        public DbSet<RankList> RankLists { get; set; }
+
         public override int SaveChanges() => this.SaveChanges(true);
 
         public override int SaveChanges(bool acceptAllChangesOnSuccess)

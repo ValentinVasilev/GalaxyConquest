@@ -2976,6 +2976,10 @@
       "GalaxyConquest.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "GalaxyConquest.Data": "1.0.0",
+          "GalaxyConquest.Web.ViewModels": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/GalaxyConquest.Services.dll": {}
         },
@@ -9904,7 +9908,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
