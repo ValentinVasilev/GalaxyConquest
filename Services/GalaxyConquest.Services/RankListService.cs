@@ -7,7 +7,7 @@
     using System.Threading.Tasks;
 
     using GalaxyConquest.Data;
-   
+    using GalaxyConquest.Web.ViewModels.Home;
 
     public class RankListService
     {
@@ -18,13 +18,11 @@
             this.dbContext = dbContext;
         }
 
-        //public RankList()
+        //public static List<RankingViewModel> RankList()
         //{
-        //    var viewModel = new RankListViewModel
-        //    {
-        //        Rank = this.dbContext.RankLists.All(x => x.Rank),
+        //    string sql = "@select Rank, Username, TotalPointsEarned, QuizzTaken from dbo.RankLists";
 
-        //    }
+        //    return 
         //}
     }
 }

@@ -40,7 +40,7 @@
         {
             var viewModel = new RankingViewModel
             {
-                Rank = this.dbContext.Accounts.Count(),
+                Rank = this.dbContext.Users.Count(),
                 Username = this.dbContext.RankLists.Count().ToString(),
                 Points = this.dbContext.RankLists.Count(),
                 QuizzTaken = this.dbContext.RankLists.Count(),

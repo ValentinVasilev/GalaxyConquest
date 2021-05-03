@@ -2429,6 +2429,10 @@
         }
       },
       "GalaxyConquest.Services/1.0.0": {
+        "dependencies": {
+          "GalaxyConquest.Data": "1.0.0",
+          "GalaxyConquest.Web.ViewModels": "1.0.0"
+        },
         "runtime": {
           "GalaxyConquest.Services.dll": {}
         },
